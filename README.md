@@ -2,5 +2,5 @@
 
 ## カーネルパニックとラーメンが大好きです 
 
-* Student of applied computer science
+* Master student of applied computer science @ Ruhr University Bochum
 * Main focus on (adversarial) machine learning and computer vision
