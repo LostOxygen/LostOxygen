@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
 C++      2 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   36.84 % 
 Text     2 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   31.64 % 
