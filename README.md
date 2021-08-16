@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
 Python   5 hrs 21 mins   ████████████▒░░░░░░░░░░░░   49.24 % 
 Text     2 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.68 % 
