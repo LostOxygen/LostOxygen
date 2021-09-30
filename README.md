@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2021 - 28 September, 2021
+Week: 23 September, 2021 - 29 September, 2021
 
 Python   7 hrs 52 mins   █████████████░░░░░░░░░░░░   52.18 % 
 Other    7 hrs 11 mins   ████████████░░░░░░░░░░░░░   47.72 % 
