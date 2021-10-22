@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2021 - 20 October, 2021
+Week: 15 October, 2021 - 21 October, 2021
 
 TeX      4 hrs 19 mins   ████████████▒░░░░░░░░░░░░   48.74 % 
 Python   2 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   31.72 % 
