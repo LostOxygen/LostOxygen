@@ -9,7 +9,7 @@ My main focus lies on (adversarial) machine learning, deep learning and computer
 
 <!--START_SECTION:waka-->
 ```text
-Python   6 hrs 58 mins   █████████████████████████   99.68 % 
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python   8 hrs 19 mins   █████████████████████████   99.73 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
