@@ -10,7 +10,9 @@ Currently i'm focussing on (adversarial) machine learning, deep learning and com
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 56 mins   █████████████████████████   100.00 %
+Python     11 hrs 38 mins  ████████████████████████▓   99.16 %
+Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
