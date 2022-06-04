@@ -11,7 +11,7 @@ Currently i'm focussing on (adversarial) machine learning, deep learning and com
 
 ```text
 Python     14 hrs 21 mins  █████████████████████▓░░░   86.57 %
-Bash       2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Bash       2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
