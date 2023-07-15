@@ -10,11 +10,11 @@ Currently i'm focussing on (adversarial) machine learning, deep learning, and co
 <!--START_SECTION:waka-->
 
 ```txt
-Python       30 hrs 2 mins   ███████████████████████░░   91.50 %
-CSS          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-TeX          50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-TypeScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python       23 hrs 32 mins  ███████████████████████▓░   94.74 %
+TeX          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
