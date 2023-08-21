@@ -10,10 +10,10 @@ Currently i'm focussing on (adversarial) machine learning, deep learning, and co
 <!--START_SECTION:waka-->
 
 ```txt
-Python       17 hrs 24 mins  ██████████████████████▓░░   90.19 %
-JSON         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Markdown     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python       17 hrs 24 mins  ███████████████████████▓░   94.92 %
+Markdown     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
