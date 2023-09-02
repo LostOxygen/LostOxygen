@@ -3,7 +3,7 @@
 I'm Jonathan. I love cooking and eating ramen and being driven crazy by my stacktrace. 🍜
 
 Besides that i'm a master student of applied computer science @ Ruhr University Bochum. 
-Currently i'm focussing on (adversarial) machine learning, deep learning, and computer vision. 🔬💻
+Currently i'm focussing on (adversarial) machine learning, natural language processing & LLMs, deep learning in general, and computer vision. 🔬💻
 
 #### 💥 Time i wasted fixing my own code during the last week:
 
