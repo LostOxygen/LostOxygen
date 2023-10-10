@@ -10,11 +10,11 @@ Currently i'm focussing on (adversarial) machine learning, natural language proc
 <!--START_SECTION:waka-->
 
 ```txt
-Python           23 hrs 16 mins  █████████████████████▒░░░   85.55 %
-JSON             2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Markdown         1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Text             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-ActionScript 3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python           30 hrs 53 mins  ██████████████████████░░░   87.77 %
+JSON             2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Markdown         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Text             33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+ActionScript 3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
