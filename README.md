@@ -10,8 +10,8 @@ Currently i'm focussing on (adversarial) machine learning, natural language proc
 <!--START_SECTION:waka-->
 
 ```txt
-Python      19 hrs 31 mins  ████████████████████▓░░░░   82.15 %
-TeX         4 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+Python      19 hrs 27 mins  █████████████████████▒░░░   85.53 %
+TeX         3 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
 Brainfuck   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
