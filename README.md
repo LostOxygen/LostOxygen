@@ -1,11 +1,11 @@
-# Hello there 👋
+# Hello there, i'm Jonathan 👋
 
-I'm Jonathan. I love cooking and eating ramen and being driven crazy by my stacktrace. 🍜
+Computer magician and professional ramen eater. 🍜
 
-Besides that i'm a master student of applied computer science @ Ruhr University Bochum. 
-Currently i'm focussing on (adversarial) machine learning, natural language processing & LLMs, deep learning in general, and computer vision. 🔬💻
+Currently i study applied computer science @ Ruhr University Bochum working on my master's thesis. 
+In general i'm interested in (adversarial) machine learning, general deep learning, computer vision, and systems security. At the moment my research is focussing around LLM and artificial neural network safety. 🔬💻
 
-#### 💥 Time i wasted fixing my own code during the last week:
+#### 💥 Time i wasted fixing my own code over the last week:
 
 <!--START_SECTION:waka-->
 
