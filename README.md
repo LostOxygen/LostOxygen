@@ -10,11 +10,11 @@ I'm generally interested in (adversarial) machine learning, deep learning techni
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs           █████████░░░░░░░░░░░░░░░░   36.51 %
-Markdown     4 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-Python       2 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-HTML         1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-CSS          1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Markdown     6 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.56 %
+JavaScript   3 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+Python       2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+HTML         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+CSS          54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
 ```
 
 <!--END_SECTION:waka-->
