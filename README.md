@@ -10,8 +10,10 @@ I'm generally interested in (adversarial) machine learning, deep learning techni
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 56 mins    █████████████████████████   99.87 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python     4 hrs 20 mins   █████████████████████████   99.79 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
