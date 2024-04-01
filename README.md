@@ -2,8 +2,9 @@
 
 Computer magician and professional ramen eater. 🍜
 
-Currently i'm studying applied computer science @ Ruhr University Bochum working on my master's thesis. 
-I'm generally interested in (adversarial) machine learning, deep learning techniques, computer vision, and systems security. At the moment, my research is focussing on large language model and artificial neural network safety. 🔬💻
+Doctoral researcher @ CISPA Helmholtz Center for Information Security.
+Interested in the security and privacy implications of modern machine learning systems. All the stuff around adversarial attacks, large language model alignment, various deep learning techniques, and general systems security. 🔬💻
+Feel free to contact me!  
 
 #### 💥 Time i wasted fixing my own code over the last week:
 
