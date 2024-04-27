@@ -1,4 +1,4 @@
-# Hello there, i'm Jonathan 👋
+# Hello there, I'm Jonathan 👋
 
 Computer magician and professional ramen eater. 🍜
 
