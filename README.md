@@ -13,11 +13,11 @@ Feel free to contact me!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 25 mins  ██████████████████████▓░░   90.23 %
-HTML         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Python       11 hrs 27 mins  ██████████████████████▒░░   89.95 %
+HTML         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
