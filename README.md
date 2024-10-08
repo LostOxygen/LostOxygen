@@ -13,7 +13,7 @@ Feel free to contact me!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs 11 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
