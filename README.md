@@ -13,9 +13,8 @@ Feel free to contact me!
 <!--START_SECTION:waka-->
 
 ```txt
-Python     25 hrs 53 mins  ███████████████████████▓░   94.50 %
-Markdown   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python     26 hrs 16 mins  ███████████████████████▓░   94.62 %
+Markdown   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
