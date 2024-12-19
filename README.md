@@ -13,9 +13,8 @@ Feel free to contact me!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 hrs 44 mins   ████████████████████▓░░░░   83.24 %
-Text     1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-JSON     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python   4 hrs 19 mins   ████████████████████████░   96.45 %
+JSON     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
