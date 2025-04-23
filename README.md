@@ -13,7 +13,10 @@ Feel free to contact me!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+HTML         3 hrs 5 mins    █████████████████████▓░░░   86.17 %
+Python       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+CSS          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
