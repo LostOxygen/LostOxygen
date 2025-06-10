@@ -13,10 +13,7 @@ Feel free to contact me!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       22 hrs 59 mins  ████████████████████████▓   99.09 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   17 hrs 11 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
